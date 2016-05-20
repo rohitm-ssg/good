@@ -6,6 +6,7 @@ public class Yes {
 		// TODO Auto-generated method stub
 		
 		//comment
+		//second comment
 	}
 
 }
